@@ -58,10 +58,7 @@
 		9FAC4AC91C1CE78C009234C4 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				9FAC4ACD1C1CE78C009234C4 /* AppDelegate.h */,
-				9FAC4ACE1C1CE78C009234C4 /* AppDelegate.m */,
-				9FAC4AD01C1CE78C009234C4 /* ViewController.h */,
-				9FAC4AD11C1CE78C009234C4 /* ViewController.m */,
+				9FAC4AE11C1CE7D6009234C4 /* Controllers */,
 				9FAC4AD31C1CE78C009234C4 /* Main.storyboard */,
 				9FAC4AD61C1CE78C009234C4 /* Assets.xcassets */,
 				9FAC4AD81C1CE78C009234C4 /* LaunchScreen.storyboard */,
@@ -74,9 +71,20 @@
 		9FAC4ACA1C1CE78C009234C4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9FAC4ACD1C1CE78C009234C4 /* AppDelegate.h */,
+				9FAC4ACE1C1CE78C009234C4 /* AppDelegate.m */,
 				9FAC4ACB1C1CE78C009234C4 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9FAC4AE11C1CE7D6009234C4 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				9FAC4AD01C1CE78C009234C4 /* ViewController.h */,
+				9FAC4AD11C1CE78C009234C4 /* ViewController.m */,
+			);
+			name = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
