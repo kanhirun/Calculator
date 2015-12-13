@@ -430,6 +430,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Kanhirun.CalculatorTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 			};
 			name = Debug;
 		};
@@ -445,6 +446,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Kanhirun.CalculatorTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 			};
 			name = Release;
 		};
